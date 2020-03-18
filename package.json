@@ -1,0 +1,24 @@
+{
+  "name": "ncsite",
+  "version": "1.0.0",
+  "description": "craftingsite",
+  "author": "BenBlack",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "nuxt": "^2.0.0",
+    "nuxt-lazy-load": "^1.0.5",
+    "nuxt-pdf": "^1.0.4",
+    "sass": "^1.25.0",
+    "vue-pdf": "^4.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
